@@ -1,0 +1,16 @@
+   Woah! You appear to be trying to run flutter as root.
+   We strongly recommend running the flutter tool without superuser privileges.
+  /
+📎
+00:00 +0: loading /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart
+00:00 +0: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: (setUpAll)
+00:00 +0: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: Splash transitions to login after four seconds
+00:00 +1: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: Splash transitions to login after four seconds
+00:00 +2: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: Splash transitions to login after four seconds
+00:01 +3: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: Login and signup fit phone 320.0
+00:01 +4: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: Login and signup fit phone 390.0
+00:01 +5: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: reader home and all main tabs at 390px
+00:02 +6: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: librarian home and all main tabs at 390px
+00:02 +7: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: manager home and all main tabs at 390px
+00:03 +8: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: (tearDownAll)
+00:03 +8: All tests passed!

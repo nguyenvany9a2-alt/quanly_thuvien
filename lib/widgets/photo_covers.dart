@@ -1,0 +1,23 @@
+// User-supplied cover photos; legacy paths remain compatible.
+const photoCovers = <String, String>{
+  'assets/images/book_01.png': 'assets/images/mot_cover_01.jpg',
+  'assets/images/book_02.jpg': 'assets/images/mot_cover_02.jpg',
+  'assets/images/book_03.jpg': 'assets/images/mot_cover_03.jpg',
+  'assets/images/book_04.jpg': 'assets/images/mot_cover_04.jpg',
+  'assets/images/book_05.jpg': 'assets/images/mot_cover_05.jpg',
+  'assets/images/book_06.png': 'assets/images/mot_cover_06.jpg',
+  'assets/images/book_07.jpg': 'assets/images/mot_cover_07.webp',
+  'assets/images/book_08.jpg': 'assets/images/mot_cover_08.jpg',
+  'assets/images/book_10.jpg': 'assets/images/mot_cover_10.jpg',
+  'assets/images/book_11.jpg': 'assets/images/mot_cover_11.jpg',
+  'assets/images/book_12.jpg': 'assets/images/mot_cover_12.jpg',
+  'assets/images/book_13.jpg': 'assets/images/mot_cover_13.jpg',
+  'assets/images/book_14.jpg': 'assets/images/mot_cover_14.webp',
+  'assets/images/book_15.jpg': 'assets/images/mot_cover_15.jpg',
+  'assets/images/book_16.jpg': 'assets/images/mot_cover_16.webp',
+  'assets/images/book_17.jpg': 'assets/images/mot_cover_17.jpg',
+  'assets/images/book_18.jpg': 'assets/images/mot_cover_18.jpg',
+  'assets/images/book_19.jpg': 'assets/images/mot_cover_19.jpg',
+  'assets/images/book_20.jpg': 'assets/images/mot_cover_20.jpg',
+  'assets/images/kieu.png': 'assets/images/mot_cover_21.jpg',
+};

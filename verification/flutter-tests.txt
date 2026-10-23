@@ -1,0 +1,20 @@
+   Woah! You appear to be trying to run flutter as root.
+   We strongly recommend running the flutter tool without superuser privileges.
+  /
+📎
+00:00 +0: loading /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/api_test.dart
+00:00 +0: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/api_test.dart: Remembered session restores, then unauthorized response clears it
+00:00 +1: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/api_test.dart: Unremembered login removes old saved token
+00:02 +2: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: (setUpAll)
+00:02 +2: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: DataView reload updates data without returning Future from setState
+00:04 +3: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: Splash transitions to login after four seconds
+00:05 +4: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: Login and signup fit phone 320.0
+00:05 +5: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: Login and signup fit phone 390.0
+00:06 +6: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: reader home and all main tabs at 320.0px
+00:07 +7: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: librarian home and all main tabs at 320.0px
+00:08 +8: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: manager home and all main tabs at 320.0px
+00:09 +9: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: reader home and all main tabs at 390.0px
+00:10 +10: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: librarian home and all main tabs at 390.0px
+00:11 +11: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: manager home and all main tabs at 390.0px
+00:12 +12: /workspace/scratch/8e8793638cdd/mot_work/quanly_thuvien/test/widget_test.dart: (tearDownAll)
+00:12 +12: All tests passed!

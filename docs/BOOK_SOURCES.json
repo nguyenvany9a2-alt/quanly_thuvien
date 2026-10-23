@@ -1,0 +1,187 @@
+{
+  "source": "https://www.sachhayonline.com/",
+  "retrieved": "2026-10-12",
+  "description_note": "Mô tả ngắn do MỌT viết; tên, tác giả, ảnh bìa tham chiếu nguồn. Không đóng gói toàn văn sách.",
+  "books": [
+    {
+      "title": "Ái tình miếu",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Ái tình miếu — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_01.png",
+      "source": "https://www.sachhayonline.com/tua-sach/ai-tinh-mieu",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/20.png"
+    },
+    {
+      "title": "Băn khoăn",
+      "author": "Khái Hưng",
+      "category": "Văn học Việt Nam",
+      "description": "Băn khoăn — Khái Hưng. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_02.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/ban-khoan",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/13.jpg"
+    },
+    {
+      "title": "Ai làm được",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Ai làm được — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_03.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/ai-lam-duoc",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/19.jpg"
+    },
+    {
+      "title": "Bỏ chồng",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Bỏ chồng — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_04.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/bo-chong",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/40.jpg"
+    },
+    {
+      "title": "Bỏ vợ",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Bỏ vợ — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_05.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/bo-vo",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/41.jpg"
+    },
+    {
+      "title": "Bức thư hối hận",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Bức thư hối hận — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_06.png",
+      "source": "https://www.sachhayonline.com/tua-sach/buc-thu-hoi-han",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/42.png"
+    },
+    {
+      "title": "Bướm trắng",
+      "author": "Nhất Linh",
+      "category": "Văn học Việt Nam",
+      "description": "Bướm trắng — Nhất Linh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_07.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/buom-trang",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/12.jpg"
+    },
+    {
+      "title": "Chị Đào, Chị Lý",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Chị Đào, Chị Lý — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_08.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/chi-dao-chi-ly",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/45.jpg"
+    },
+    {
+      "title": "Chân trời cũ",
+      "author": "Hồ Dzếnh",
+      "category": "Văn học Việt Nam",
+      "description": "Chân trời cũ — Hồ Dzếnh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_09.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/chan-troi-cu",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/31.jpg"
+    },
+    {
+      "title": "Cha con nghĩa nặng",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Cha con nghĩa nặng — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_10.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/cha-con-nghia-nang",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/44.jpg"
+    },
+    {
+      "title": "Cay đắng mùi đời",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Cay đắng mùi đời — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_11.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/cay-dang-mui-doi",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/43.jpg"
+    },
+    {
+      "title": "Chiếc nhẫn tình cờ",
+      "author": "Arthur Conan Doyle",
+      "category": "Văn học nước ngoài",
+      "description": "Chiếc nhẫn tình cờ — Arthur Conan Doyle. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_12.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/chiec-nhan-tinh-co",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/95.jpg"
+    },
+    {
+      "title": "Chúa tàu Kim Quy",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Chúa tàu Kim Quy — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_13.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/chua-tau-kim-quy",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/46.jpg"
+    },
+    {
+      "title": "Chút phận linh đinh",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Chút phận linh đinh — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_14.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/chut-phan-linh-dinh",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/47.jpg"
+    },
+    {
+      "title": "Cổ học tinh hoa",
+      "author": "Nhiều tác giả",
+      "category": "Văn học Việt Nam",
+      "description": "Cổ học tinh hoa — Nhiều tác giả. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_15.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/co-hoc-tinh-hoa",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/94.jpg"
+    },
+    {
+      "title": "Cơm thầy cơm cô",
+      "author": "Vũ Trọng Phụng",
+      "category": "Văn học Việt Nam",
+      "description": "Cơm thầy cơm cô — Vũ Trọng Phụng. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_16.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/com-thay-com-co",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/24.jpg"
+    },
+    {
+      "title": "Con chó của dòng họ Baskerville",
+      "author": "Arthur Conan Doyle",
+      "category": "Văn học nước ngoài",
+      "description": "Con chó của dòng họ Baskerville — Arthur Conan Doyle. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_17.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/con-cho-cua-dong-ho-baskerville",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/96.jpg"
+    },
+    {
+      "title": "Con nhà giàu",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Con nhà giàu — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_18.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/con-nha-giau",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/48.jpg"
+    },
+    {
+      "title": "Con nhà nghèo",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Con nhà nghèo — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_19.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/con-nha-ngheo",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/49.jpg"
+    },
+    {
+      "title": "Cư Kỉnh",
+      "author": "Hồ Biểu Chánh",
+      "category": "Văn học Việt Nam",
+      "description": "Cư Kỉnh — Hồ Biểu Chánh. Chọn một bản sách tại MỌT để bắt đầu hành trình đọc của bạn.",
+      "cover": "assets/images/book_20.jpg",
+      "source": "https://www.sachhayonline.com/tua-sach/cu-kinh",
+      "original_image": "https://www.sachhayonline.com/themes/tinhte/public/images/book-photos/50.jpg"
+    }
+  ]
+}
